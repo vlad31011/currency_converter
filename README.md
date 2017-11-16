@@ -1,1 +1,1 @@
-Enter "npm star" for start application 
+Enter "npm start" for start application 
